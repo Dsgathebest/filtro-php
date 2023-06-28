@@ -5,7 +5,7 @@ include_once __DIR__ . 'templates/header.php';
 ?>
 <main>
     <?php
-    include_once __DIR__ . 'views/Country/reg-country.php';
+    include_once 'views/Country/reg-country.php';
     ?>
 </main>
 
